@@ -1,9 +1,9 @@
 /*
  *	jQuery Chat Plugin
  *	Ajax Chat plugin for jquery
- *	Version 1.5, April, 2016
- *	Released Under Envato Regular and Extended Licenses by Paulo Regina
- *  www.pauloreg.com
+ *	Version 1.5, December, 2017
+ *	Released Under Envato Regular and Extended Licenses by Wembo mulumba
+ *  www.webgestus.com
  */
  
 function getParameterByName(name) {
